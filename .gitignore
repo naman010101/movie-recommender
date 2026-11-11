@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+.env
+.streamlit/secrets.toml
+# 185 MB similarity matrix - exceeds GitHub limit; replaced by neighbors.npy
+similar.pkl
